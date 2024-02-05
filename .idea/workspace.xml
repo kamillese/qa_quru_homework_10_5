@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="534c071c-3e33-4516-902f-e3dfc2c67968" name="Changes" comment="new python test file was addded">
-      <change afterPath="$PROJECT_DIR$/tests/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_homework.py" afterDir="false" />
-    </list>
+    <list default="true" id="534c071c-3e33-4516-902f-e3dfc2c67968" name="Changes" comment="zoom script for browser and new elements were added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,11 +110,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707151103675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zoom script for browser and new elements were added">
+      <option name="closed" value="true" />
+      <created>1707172095906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707172095906</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new python test file was addded" />
-    <option name="LAST_COMMIT_MESSAGE" value="new python test file was addded" />
+    <MESSAGE value="zoom script for browser and new elements were added" />
+    <option name="LAST_COMMIT_MESSAGE" value="zoom script for browser and new elements were added" />
   </component>
 </project>
